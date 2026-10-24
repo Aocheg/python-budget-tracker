@@ -1,6 +1,6 @@
 user_name = "Gabriel"
-monthly_income = 16000.00
-rent_expense = 8000.75
+monthly_income = 9000.00
+rent_expense = 2000.25
 
 remaining_balance = monthly_income - rent_expense
 
